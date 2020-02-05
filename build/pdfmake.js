@@ -17816,10 +17816,10 @@ var customfonts = {
 		bolditalics: 'Roboto-MediumItalic.ttf'
   },
   fangzhen: {
-    normal: 'fzhei-jt.ttf',
-    bold: 'fzhei-jt.ttf',
-    italics: 'fzhei-jt.ttf',
-    bolditalics: 'fzhei-jt.ttf'
+    normal: 'msyh.ttf',
+    bold: 'msyh.ttf',
+    italics: 'msyh.ttf',
+    bolditalics: 'msyh.ttf'
   }
 };
 
@@ -18327,10 +18327,10 @@ var isUndefined = __webpack_require__(0).isUndefined;
  *		bolditalics: 'fonts/Roboto-MediumItalic.ttf'
  *	},
  * fangzhen: {
- *    normal: 'fonts/fzhei-jt.ttf',
- *    bold: 'fonts/fzhei-jt.ttf',
- *    italics: 'fonts/fzhei-jt.ttf',
- *    bolditalics: 'fonts/fzhei-jt.ttf'
+ *    normal: 'fonts/msyh.ttf',
+ *    bold: 'fonts/msyh.ttf',
+ *    italics: 'fonts/msyh.ttf',
+ *    bolditalics: 'fonts/msyh.ttf'
  *    }
  * };
  *
